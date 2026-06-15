@@ -1,5 +1,87 @@
-## 禁玩彩网
-||wancai.com^  
+#百度输入法上传你输入了什么，副作用云联想词加载不出来。
+||udpolimenew.baidu.com^
+||udpolimeok.baidu.com^
+||upl.baidu.com^
+||ads.uutest.cn^  #【测网速】
+
+#WPS
+||ad.docer.wps.cn^
+||adm.zookingsoft.com^
+||docerad.wps.cn^
+||update.thread0.com^  #自定义水印相机更新？
+
+#智联招聘(开屏和部分广告图，开屏倒计时仍然要霸占3秒才走，误伤少量图标)
+||storage-public.zhaopin.cn^
+
+#QQ
+||ca.gtimg.com^
+||q.i.gdt.qq.com^
+||c.gdt.qq.com^
+||updatecenter.qq.com^
+||tangram-config.gdt.qq.com^
+
+#隐私相关(GitHub扒)
+||wup.imtt.qq.com^
+||huatuo.qq.com^  #华佗诊断
+||ping.huatuo.qq.com^
+||tpns.tencent.com^
+||stat.tpns.tencent.com^
+
+#TopOn广告(酷安用，不然信息流漏广告)
+||app.takuad.com^
+||img.toponad.com^
+||mores.toponad.com^
+||app.toponad.com^
+||aa.toponad.com^
+||pkgcn.toponad.com^
+||pkg.toponad.com^
+||openapi.toponad.com^
+||www.toponad.com^
+||tt.toponad.com^
+||dd.toponad.com^
+
+#快应用
+||qr.quickapp.cn^
+||qrcdn.quickapp.cn^
+||statres.quickapp.cn^
+||cnbj1.fds.api.xiaomi.co^  #小米遥控器底部横幅
+||api.jr.mi.com^  #小米钱包净化
+||sug.browser.miui.com^  #小米浏览器搜索提示，上方的应用推广和下面的联想词一起干没
+||api.comm.miui.com^  #小米日历广告
+#小米天气主页广告、央视天气预报和适宜XX卡片
+||wtradv.market.xiaomi.com^
+
+#字节系 AD API SDK 屏蔽
+||bsccdn.net^
+||dig.zjurl.cn^
+||dig.bdurl.net^
+||ad.zijieapi.com^
+||apps.bytesfield.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao1.com^
+||pangolin-sdk-toutiao-b.com^
+||pglstatp-toutiao.com^
+||vcs.zijieapi.com^
+||ads*-normal.amemv.com^
+||ads*-normal-lq.amemv.com^
+||ads*-normal-lf.amemv.com^
+||ads*-normal-hl.amemv.com^
+||ads*-normal.zijieapi.com^
+||ads*-normal-lq.zijieapi.com^
+||ads*-normal-lf.zijieapi.com^
+||ads*-normal-hl.zijieapi.com^
+||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+||ads*-normal-lq.zijieapi.com.queniuiq.com^
+||p*-ad-sign.byteimg.com^
+||p*-ad.byteimg.com^
+||lf*-orange.byteorge.com^
+||v*-novelapp.fqnovelvod.com^
+||sf*-ttcdn-tos.pstatp.com^
+||p*-local-ads.byteimg.com.queniuso.com^
+||p*-local-ads.byteimg.com^
+||localads.chengzijianzhan.cn^
+||localads.chengzijianzhan.cn.queniurc.com^
+||ads*-normal-lf.zijieapi.com.dhcp^
 
 #googleanalysis.mobi
 ||ad.googleanalysis.mobi^
